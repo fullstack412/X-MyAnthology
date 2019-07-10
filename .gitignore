@@ -1,0 +1,26 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+yarn-error.log
+
+.env
+
+# Android
+build/
+.idea
+.gradle
+local.properties
+*.iml
+
+ios/*.dSYM.zip
+
+*.jsbundle
+
+.vscode
