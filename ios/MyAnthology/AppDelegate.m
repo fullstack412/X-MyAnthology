@@ -18,7 +18,7 @@
 {
   RCTBridge *bridge = [[RCTBridge alloc] initWithDelegate:self launchOptions:launchOptions];
   RCTRootView *rootView = [[RCTRootView alloc] initWithBridge:bridge
-                                                   moduleName:@"MorganCapital"
+                                                   moduleName:@"MyAnthology"
                                             initialProperties:nil];
   
   [RCTSplashScreen open:rootView withImageNamed:@"splash"];
